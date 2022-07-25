@@ -9,6 +9,7 @@ $twitterLNK = "https://twitter.com/nickname"; // Link of Twitter
 $TGchannel1 = ""; // advertised TG channel 
 $TGchannel2 = ""; // advertised TG channel 
 $VKLNK = "https://vk.com/nickname"; // Link of VK
-$$MetaMaskLNK = "https://tegro.click/nickname"; // Link of MetaMask
+$MetaMaskLNK = "https://tegro.click/nickname"; // Link of MetaMask
+$XAPIKey = ""; // API Key of Toncenter website
 define('TOKEN', 'XXXXX'); // Add the Bot API Token
 ###########################
