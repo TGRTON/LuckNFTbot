@@ -1,3 +1,8 @@
+> ⚠️ **Archived — legacy / experimental, no longer maintained.**
+> Part of **TGRTON**, the historical home of the (retired) $TGR token and early Tegro experiments. For our active, maintained projects see the **[Tegro open-source org → github.com/TegroTON](https://github.com/TegroTON)** — DEX [tegro.finance](https://tegro.finance) · Payments [tegro.money](https://tegro.money).
+
+---
+
 <p align="center">
   <h3 align="center">LuckNFTbot - Telegram Bot</h3>
   <p align="center">
@@ -69,7 +74,7 @@ To get your Telegram bot up and running, follow these installation steps. The pr
    $TGchannel1 = ""; // Link to an advertised Telegram channel
    $TGchannel2 = ""; // Another advertised Telegram channel
    $VKLNK = "https://vk.com/nickname"; // Replace with your VK profile link
-   $MetaMaskLNK = "https://tegro.click/nickname"; // Replace with your MetaMask link
+   $MetaMaskLNK = "https://tegro.money/nickname"; // Replace with your MetaMask link
 
    // Bot API Token from Telegram.
    define('TOKEN', 'XXXXX'); // Replace 'XXXXX' with your actual Bot API Token
